@@ -1,6 +1,21 @@
-# Assembly Endgame
+# 🚀 Assembly: Endgame
 
-A React word guessing game inspired by Hangman.
+A React word-guessing game inspired by Hangman.
+
+## Live Demo
+
+[Play Here]([(https://assembly-endgame-phi-roan.vercel.app/])
+
+## About
+
+Guess the hidden word before all programming languages are eliminated and Assembly takes over. The project was built to practice React state management, conditional rendering, event handling, and dynamic UI updates.
+
+## Technologies Used
+
+* React
+* JavaScript
+* CSS
+* Vite
 
 ## Features
 
