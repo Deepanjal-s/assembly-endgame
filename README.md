@@ -4,7 +4,7 @@ A React word-guessing game inspired by Hangman.
 
 ## Live Demo
 
-[Play Here]([(https://assembly-endgame-phi-roan.vercel.app/])
+[Play Assembly: Endgame](https://assembly-endgame-phi-roan.vercel.app/)
 
 ## About
 
@@ -25,9 +25,3 @@ Guess the hidden word before all programming languages are eliminated and Assemb
 - Farewell messages
 - Responsive UI
 
-## Technologies
-
-- React
-- JavaScript
-- CSS
-- Vite
